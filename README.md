@@ -63,8 +63,9 @@ Ahora una pequeña lista
      - Voy por la mitad creo
      
 - [x] SI/Binario
-- [ ] LMXSI/MarkDown
+- [x] LMXSI/MarkDown
 - [ ] Hacerme rico
+- [x] Despertarme
 
 :sunglasses:
 
@@ -73,7 +74,6 @@ Ahora una pequeña lista
 
 [^1]: Adrián
 [^2]: Cambados  
-  This allows you to have a footnote with multiple lines.
 [^note]:
     Quedar con mis amigos, el deporte y jugar videojuegos
 
@@ -81,7 +81,13 @@ Ahora una pequeña lista
 
 Intento de \*Diagrama\*
 
-
+```mermaid
+graph TD;
+    Riqueza-->Lotería;
+    Riqueza-->Milagro;
+    Lotería-->Despertarme;
+    Milagro-->Despertarme;
+```
 
 
 
