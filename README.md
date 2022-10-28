@@ -26,7 +26,7 @@ El color de fondo de _issues_ debería ser `#RRGGBB`.
 
 Este MarkDown pertenece a [Adrían](https://github.com/agonzalezbesada)
 
-### REPOSITORIOS DE ADRIÁN ###
+___
 
 [Mejor foto de perfil de la historia](https://github.com/agonzalezbesada/MarkDown/blob/main/Yoda%20pocho.jpg)
 >Y lo sabes
